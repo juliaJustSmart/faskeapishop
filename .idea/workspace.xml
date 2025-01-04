@@ -29,11 +29,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="gh-pages" />
-                    <option name="lastUsedInstant" value="1736027620" />
+                    <option name="lastUsedInstant" value="1736028434" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1736027619" />
+                    <option name="lastUsedInstant" value="1736028433" />
                   </RecentBranch>
                 </list>
               </option>
@@ -43,9 +43,6 @@
         </option>
       </RecentBranches>
     </option>
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2a41acaa-4338-4cd7-a230-a1d82ef40c9b" />
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -144,35 +141,12 @@
       <option name="presentableId" value="Default" />
       <updated>1736010971628</updated>
       <workItem from="1736010972918" duration="9975000" />
-      <workItem from="1736026770314" duration="709000" />
-      <workItem from="1736027606621" duration="295000" />
+      <workItem from="1736026770314" duration="646000" />
+      <workItem from="1736028415783" duration="195000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
