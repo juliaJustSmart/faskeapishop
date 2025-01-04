@@ -28,20 +28,6 @@ const Footer = () => (
                    Створено на базі React
                 </Typography>
             </Grid>
-            <Grid item xs={12} sm={4} container justifyContent="center">
-                <Typography
-                    variant="body2"
-                    align="center"
-                    sx={{
-                        fontFamily: "'Roboto', sans-serif",
-                        fontWeight: 'bold',
-                        fontSize: '1rem',
-                        color: '#FFFFFF',
-                    }}
-                >
-                    © 2024. All Rights Reserved.
-                </Typography>
-            </Grid>
             <Grid item xs={12} sm={4} container justifyContent="flex-end">
                 <Box sx={{display: 'flex', flexDirection: 'column', gap: 2}}>
                     <Typography

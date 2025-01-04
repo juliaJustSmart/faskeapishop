@@ -1,6 +1,7 @@
 import React from 'react';
-import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+import { Player } from '@lottiefiles/react-lottie-player';
 import { Typography, Box } from '@mui/material';
+import spinnerAnimation from './Animation - 1736031120789.json';
 
 const Spinner = () => {
     return (
@@ -16,8 +17,8 @@ const Spinner = () => {
                 padding: '20px',
             }}
         >
-            <DotLottieReact
-                src="https://lottie.host/a6783df1-68c0-4f06-9b2c-6cb5a6f6f7ec/hUcTWrkbB0.lottie"
+            <Player
+                src={spinnerAnimation}
                 loop
                 autoplay
                 style={{
