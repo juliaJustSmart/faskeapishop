@@ -39,7 +39,7 @@ const Spinner = () => {
                     textShadow: '0 0 10px rgba(0, 191, 255, 0.7)',
                 }}
             >
-                Йде завантаження магазину
+                завантаження...
             </Typography>
         </Box>
     );
