@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faskeapishop/static/css/main.6d2ae8df.css",
+    "main.js": "/faskeapishop/static/js/main.250e2b13.js",
+    "index.html": "/faskeapishop/index.html",
+    "main.6d2ae8df.css.map": "/faskeapishop/static/css/main.6d2ae8df.css.map",
+    "main.250e2b13.js.map": "/faskeapishop/static/js/main.250e2b13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2ae8df.css",
+    "static/js/main.250e2b13.js"
+  ]
+}
