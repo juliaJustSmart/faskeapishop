@@ -17,7 +17,7 @@ const Spinner = () => {
             }}
         >
             <DotLottieReact
-                src="https://lottie.host/f710b6a3-2c90-4386-8501-89ee5e393165/k55h4npkdE.lottie"
+                src="https://lottie.host/a6783df1-68c0-4f06-9b2c-6cb5a6f6f7ec/hUcTWrkbB0.lottie"
                 loop
                 autoplay
                 style={{
